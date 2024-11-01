@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FourBoxesWithTextApp</string>
+    <string name="first_article_name">Text composable</string>
+    <string name="first_article_main">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="second_article_name">Image composable</string>
+    <string name="second_article_main">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="three_name_article">Row composable</string>
+    <string name="three_main_article">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="four_name_article">Column composable</string>
+    <string name="four_main_article">A layout composable that places its children in a vertical sequence.</string>
+</resources>
